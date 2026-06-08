@@ -1,6 +1,6 @@
 Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data .
 
-![before_solve](image/image.png).
+![before_solve](image/image1.png).
 
 To solve this Lab 
 Use Burp Suite to intercept and modify the request that sets the product category filter.
