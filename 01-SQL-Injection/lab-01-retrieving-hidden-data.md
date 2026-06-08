@@ -8,3 +8,6 @@ Modify the category parameter, giving it the value '+OR+1=1--
 Submit the request, and verify that the response now contains one or more unreleased products. 
 
 ![proses_solve](image/proses01.png)
+
+This Lab is Solved
+![solved](image/sqlsolved.png)
