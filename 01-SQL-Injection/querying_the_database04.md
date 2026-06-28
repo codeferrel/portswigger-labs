@@ -10,11 +10,16 @@ Database version
 we can query the database to determine its type and version. This information is useful when formulating more complicated attacks.
 
 Oracle 	SELECT banner FROM v$version
+
 SELECT version FROM v$instance
+
 Microsoft 	SELECT @@version
+
 PostgreSQL 	SELECT version()
+
 MySQL 	SELECT @@versio
-![Proses_to_solve_this_Lab](image/sql04.png)
+
+![Proses_to_solve_this_Lab](image/proses04.png)
 
 This Lab is Solved
 ![Solved](image/solved04.png)
