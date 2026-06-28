@@ -11,13 +11,13 @@ we can query the database to determine its type and version. This information is
 
 Oracle 	SELECT banner FROM v$version
 
-SELECT version FROM v$instance
+SELECT version FROM v$instance,
 
-Microsoft 	SELECT @@version
+Microsoft 	SELECT @@version,
 
-PostgreSQL 	SELECT version()
+PostgreSQL 	SELECT version(),
 
-MySQL 	SELECT @@versio
+MySQL 	SELECT @@versio,
 
 ![Proses_to_solve_this_Lab](image/proses04.png)
 
