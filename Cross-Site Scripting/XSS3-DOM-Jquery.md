@@ -5,3 +5,5 @@ The vulnerability in this Lab triggers the moment the user clicks the "Back" but
 ![Before_Solve_The_Lab](image/xss4before.png)
 To solve This Lab we add the payload  javascript:alert(document.cookie) in the returnPath=/ change the / to payload  javascript:alert(document.cookie)
 
+![The_is_Solved](image/xss4after.png)
+
