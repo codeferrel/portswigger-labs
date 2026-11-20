@@ -1,0 +1,2 @@
+Lab: Basic SSRF against the local server This lab has a stock check feature which fetches data from an internal system. To solve the lab, change the stock check URL to access the admin interface at #http://localhost/admin and delete the user carlos. 
+![before-solve-the-lab](image/ssrf1b.png)
