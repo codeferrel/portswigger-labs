@@ -3,3 +3,5 @@ Lab: Basic SSRF against the local server This lab has a stock check feature whic
 
 so solve this lab change the api stochapi to stockApi=http://localhost/admin and thne delete carlos we can delete in browser or use bursuite 
 ![after solve this lab](image1/ssrf1s.png)
+And we solved the lab
+![after solve this lab](image1/ssrf1s.png)
